@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459872634563",
+    "project_id": "childsafety-bb06a",
+    "storage_bucket": "childsafety-bb06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459872634563:android:c186322af79b68fbd7c476",
+        "android_client_info": {
+          "package_name": "com.example.child_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgxzLC9rb_T1iXC2agLvrGNHkz2mFDTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
